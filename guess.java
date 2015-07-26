@@ -1,6 +1,4 @@
 /* Name: Jessica Xie
- * User: jqxie
- * Programming Assignment #2
  * This program plays an interactive guessing game with the user.
  */
 
